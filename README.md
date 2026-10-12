@@ -35,15 +35,15 @@ Busco aprimorar meus conhecimentos por meio de projetos práticos, estudos e des
 
 ### Linguagens
 
-<img src="https://skillicons.dev/icons?i=php,python,java,javascript,html,css,dart&theme=dark" alt="Linguagens"/>
+<img src="https://skillicons.dev/icons?i=php,flutter,java,javascript,html,css,dart&theme=dark" alt="Linguagens"/>
 
 ### Frameworks e Bibliotecas
 
-<img src="https://skillicons.dev/icons?i=laravel,react,flask,flutter,bootstrap,tailwind&theme=dark" alt="Frameworks"/>
+<img src="https://skillicons.dev/icons?i=laravel,flask,flutter,bootstrap,tailwind&theme=dark" alt="Frameworks"/>
 
 ### Banco de Dados e Ferramentas
 
-<img src="https://skillicons.dev/icons?i=mysql,sqlite,docker,git,github,linux,vscode&theme=dark" alt="Ferramentas"/>
+<img src="https://skillicons.dev/icons?i=mysql,,docker,git,github,linux,vscode&theme=dark" alt="Ferramentas"/>
 
 </div>
 
