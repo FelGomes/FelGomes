@@ -128,7 +128,7 @@ Projetos acadêmicos e estudos envolvendo desenvolvimento web, programação ori
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/https://www.linkedin.com/in/felipe-ferreira-gomes-b297a4351/?isSelfProfile=true/">
+<a href="https://www.linkedin.com/in/felipe-ferreira-gomes-b297a4351">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
