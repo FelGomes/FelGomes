@@ -143,10 +143,9 @@ Projetos acadêmicos e estudos envolvendo desenvolvimento web, programação ori
 </div>
 
 <br>
-
 <!-- VISITANTES -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=FelGomes&color=0F9E30&style=for-the-badge&label=VISITAS+AO+PERFIL" alt="Visualizações"/>
+  <img src="https://github.com/FelGomes&color=0F9E30&style=for-the-badge&label=VISITAS+AO+PERFIL" alt="Visualizações"/>
 </div>
 
 <br>
