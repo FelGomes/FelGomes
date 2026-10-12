@@ -25,7 +25,7 @@ Busco aprimorar meus conhecimentos por meio de projetos práticos, estudos e des
 
 - 🎓 Graduando em Sistemas de Informação
 - 💻 Desenvolvimento Web e Backend
-- 🌱 Aprimorando conhecimentos em Laravel, Python e Docker
+- 🌱 Aprimorando conhecimentos em Laravel, Javascript, Docker e Flutter
 - 🔬 Experiência em projetos de pesquisa e tecnologia
 - 🚀 Interesse em análise de qualidade
 
@@ -42,15 +42,17 @@ Busco aprimorar meus conhecimentos por meio de projetos práticos, estudos e des
 
 ### Frameworks e Bibliotecas
 
-<img src="https://skillicons.dev/icons?i=laravel,flask,flutter,bootstrap,tailwind&theme=dark" alt="Frameworks"/>
+<img src="https://skillicons.dev/icons?i=laravel,bootstrap&theme=dark" alt="Frameworks"/>
 
 ### Banco de Dados e Ferramentas
 
-<img src="https://skillicons.dev/icons?i=mysql,,docker,git,github,linux,vscode&theme=dark" alt="Ferramentas"/>
+<img src="https://skillicons.dev/icons?i=mysql,docker,git,github,linux,vscode&theme=dark" alt="Ferramentas"/>
 
 </div>
 
 <br>
+
+
 
 <!-- PROJETOS -->
 ## 🚀 Projetos em Destaque
@@ -67,6 +69,20 @@ Sistema de monitoramento de cultivo em ambiente controlado, com integração de 
 PHP, Python, Flask, MySQL, Raspberry Pi e Docker.
 
 [🔗 Ver projeto](https://github.com/IFGoiano-SI/Farmview-Monitoramento)
+
+</td>
+<td width="50%" valign="top">
+
+
+### ⚖️ landing page advocacia
+
+Landing page de adovacia para advogada em direitos trabalhista
+
+**Tecnologias:**
+Css e HTML.
+
+
+[🔗 Ver projeto](https://github.com/FelGomes/LandingPage-Advocacia)
 
 </td>
 <td width="50%" valign="top">
@@ -101,7 +117,7 @@ Projetos acadêmicos e estudos envolvendo desenvolvimento web, programação ori
 ## 🔥 Sequência de Contribuições
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=github-dark-blue&hide_border=true&ring=0F9E30&fire=0F9E30&currStreakLabel=0F9E30" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=FelGomes&theme=github-dark-blue&hide_border=true&ring=0F9E30&fire=0F9E30&currStreakLabel=0F9E30" alt="GitHub Streak"/>
 </div>
 
 <br>
