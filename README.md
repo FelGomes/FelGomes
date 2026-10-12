@@ -105,9 +105,9 @@ Projetos acadêmicos e estudos envolvendo desenvolvimento web, programação ori
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=github_dark&hide_border=true&title_color=0F9E30&icon_color=0F9E30&text_color=ffffff&bg_color=0D1117" alt="GitHub Stats"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=FelGomes&show_icons=true&theme=github_dark&hide_border=true&title_color=0F9E30&icon_color=0F9E30&text_color=ffffff&bg_color=0D1117" alt="GitHub Stats"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=github_dark&hide_border=true&title_color=0F9E30&text_color=ffffff&bg_color=0D1117" alt="Top Languages"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelGomes&layout=compact&theme=github_dark&hide_border=true&title_color=0F9E30&text_color=ffffff&bg_color=0D1117" alt="Top Languages"/>
 
 </div>
 
