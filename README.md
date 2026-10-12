@@ -128,15 +128,15 @@ Projetos acadêmicos e estudos envolvendo desenvolvimento web, programação ori
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/felipe-ferreira-gomes-b297a4351">
+<a href="https://www.linkedin.com/in/felipe-ferreira-gomes-b297a4351" target:_blank>
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
-<a href="https://www.instagram.com/felipe.gomees_/">
+<a href="https://www.instagram.com/felipe.gomees_/" target:_blank>
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
 
-<a href="https://github.com/FelGomes">
+<a href="https://github.com/FelGomes" target:_blank>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
