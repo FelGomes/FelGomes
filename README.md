@@ -153,5 +153,5 @@ Projetos acadêmicos e estudos envolvendo desenvolvimento web, programação ori
 
 <!-- RODAPÉ -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,50:0F9E30,100:16A34A&height=120&section=footer"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:160F24,50:7B41B8,100:9D6AE0&height=120&section=footer"/>
 </div>
