@@ -123,6 +123,16 @@ Projetos acadêmicos e estudos envolvendo desenvolvimento web, programação ori
 <br>
 
 
+<!-- SNAKE CONTRIBUTION -->
+## 🐍 Snake Contribution
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/FelGomes/FelGomes/output/github-contribution-grid-snake-dark.svg" alt="Snake Contribution"/>
+</div>
+
+<br>
+
+
 <!-- REDES SOCIAIS -->
 ## 🌐 Conecte-se comigo
 
