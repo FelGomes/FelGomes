@@ -1,13 +1,16 @@
 
 <!-- BANNER PERSONALIZADO -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,50:0F9E30,100:16A34A&height=220&section=header&text=Felipe%20Ferreira%20Gomes&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desenvolvimento%20de%20Software%20%7C%20Tecnologia&descAlignY=60&descSize=17"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:160F24,50:7B41B8,100:9D6AE0&height=220&section=header&text=Felipe%20Ferreira%20Gomes&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desenvolvimento%20de%20Software%20%7C%20Tecnologia&descAlignY=60&descSize=17"/>
 </div>
 
+
 <!-- TYPING ANIMATION -->
+
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=0F9E30&center=true&vCenter=true&width=650&lines=Ol%C3%A1%2C+seja+bem-vindo+ao+meu+GitHub!;Estudante+de+Sistemas+de+Informa%C3%A7%C3%A3o;Desenvolvimento+Web+e+IoT;Sempre+aprendendo+novas+tecnologias" alt="Typing Animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=7B41B8&center=true&vCenter=true&width=650&lines=Ol%C3%A1%2C+seja+bem-vindo+ao+meu+GitHub!;Estudante+de+Sistemas+de+Informa%C3%A7%C3%A3o;Desenvolvimento+Web+e+IoT;Sempre+aprendendo+novas+tecnologias" alt="Typing Animation"/>
 </div>
+
 
 <br>
 
@@ -103,32 +106,6 @@ Projetos acadêmicos e estudos envolvendo desenvolvimento web, programação ori
 
 <br>
 
-<!-- ACTIVITY GRAPH -->
-## 📈 Gráfico de Atividades
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&bg_color=0D1117&color=ffffff&line=0F9E30&point=ffffff&area=true&hide_border=true" alt="Activity Graph"/>
-</div>
-
-<br>
-
-<!-- TROPHIES -->
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=onestar&no-frame=true&no-bg=true&margin-w=10&row=1" alt="GitHub Trophies"/>
-</div>
-
-<br>
-
-<!-- SNAKE CONTRIBUTION -->
-## 🐍 Snake Contribution
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake-dark.svg" alt="Snake Contribution"/>
-</div>
-
-<br>
 
 <!-- REDES SOCIAIS -->
 ## 🌐 Conecte-se comigo
